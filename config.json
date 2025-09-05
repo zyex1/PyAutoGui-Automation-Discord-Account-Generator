@@ -1,0 +1,9 @@
+{
+    "check_ratelimit": true,
+    "notify": true,
+    "notification_icon": "data/pack.ico",
+    "mail_api": "https://api.incognitomail.co/",
+    "mail_domain": "termwave.in",
+    "save_tokens": true,
+    "ratelimit_max_wait": 100
+}
